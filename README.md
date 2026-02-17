@@ -1,0 +1,2 @@
+# Digital-Healthcare-Dashboard-Hospital-Performance-Analysis
+As a Data Analyst, I developed this digital healthcare dashboard to transform hospital data into clear, actionable insights. The project analyzes admissions, readmissions, treatment costs, payer distribution, staffing ratios, and infection trends to support smarter decision-making, improve operational efficiency, and enhance patient care outcomes.
