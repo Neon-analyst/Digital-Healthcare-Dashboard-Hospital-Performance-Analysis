@@ -42,6 +42,6 @@ Microsoft Excel (Data Cleaning & Preparation)
 
 
 
+<img width="776" height="348" alt="image" src="https://github.com/user-attachments/assets/3c173ee4-9390-4edf-a8ac-3e9e2a024d6e" />
 
-<img width="784" height="441" alt="Digital-healthcare-dashboard-analyzing-hospital-performance-784x441" src="https://github.com/user-attachments/assets/fcb365d2-030b-47d1-86cb-6aa753de115f" />
 
